@@ -1,0 +1,28 @@
+ticket_id,created_at,category,priority,status,first_response_hours,resolution_hours,channel
+TK-1001,2026-09-15 08:12:00,Acceso,Alta,Resuelto,0.4,3.2,Formulario
+TK-1002,2026-09-15 10:45:00,Consulta,Media,Resuelto,1.2,5.8,Email
+TK-1003,2026-09-16 09:05:00,Incidente,Alta,En proceso,0.3,,Formulario
+TK-1004,2026-09-17 11:20:00,Acceso,Baja,Resuelto,2.4,6.1,WhatsApp
+TK-1005,2026-09-18 08:50:00,Facturación,Media,Pendiente,3.1,,Email
+TK-1006,2026-09-19 14:10:00,Consulta,Baja,Resuelto,2.8,8.3,WhatsApp
+TK-1007,2026-09-20 09:30:00,Incidente,Alta,Resuelto,0.2,2.4,Formulario
+TK-1008,2026-09-21 12:05:00,Acceso,Media,En proceso,1.4,,Email
+TK-1009,2026-09-22 08:22:00,Consulta,Baja,Resuelto,3.6,9.5,Formulario
+TK-1010,2026-09-23 10:14:00,Facturación,Alta,Resuelto,0.8,4.7,Email
+TK-1011,2026-09-24 15:40:00,Acceso,Media,Pendiente,1.7,,WhatsApp
+TK-1012,2026-09-25 09:02:00,Incidente,Alta,Resuelto,0.3,1.9,Formulario
+TK-1013,2026-09-26 11:48:00,Consulta,Media,En proceso,1.1,,Email
+TK-1014,2026-09-27 13:18:00,Facturación,Baja,Resuelto,2.5,7.2,WhatsApp
+TK-1015,2026-09-29 08:35:00,Acceso,Alta,Resuelto,0.5,2.8,Formulario
+TK-1016,2026-09-30 16:20:00,Consulta,Baja,Resuelto,4.2,10.4,Email
+TK-1017,2026-10-01 09:14:00,Incidente,Alta,En proceso,0.6,,Formulario
+TK-1018,2026-10-02 10:30:00,Acceso,Media,Resuelto,1.3,5.1,WhatsApp
+TK-1019,2026-10-03 12:15:00,Facturación,Media,Pendiente,2.0,,Email
+TK-1020,2026-10-04 08:42:00,Consulta,Baja,Resuelto,2.9,8.6,Formulario
+TK-1021,2026-10-05 14:06:00,Acceso,Alta,Resuelto,0.3,2.1,Formulario
+TK-1022,2026-10-06 09:55:00,Incidente,Alta,Resuelto,0.5,3.7,WhatsApp
+TK-1023,2026-10-07 11:12:00,Consulta,Media,En proceso,1.6,,Email
+TK-1024,2026-10-08 08:08:00,Facturación,Baja,Resuelto,3.4,11.2,Email
+TK-1025,2026-10-09 13:32:00,Acceso,Media,Resuelto,1.0,4.0,Formulario
+TK-1026,2026-10-10 10:25:00,Incidente,Alta,Pendiente,0.7,,WhatsApp
+TK-1027,2026-10-10 15:09:00,Consulta,Baja,Resuelto,2.1,6.8,Formulario
