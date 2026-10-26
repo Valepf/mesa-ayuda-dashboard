@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.streamlit/secrets.toml
+credentials*.json*
+client_secret*.json*
+service_account*.json*
+token*.json*
+config.local.json
+*.zip
+*.xlsx
+*.xls
+data/*
+!data/tickets_demo.csv
