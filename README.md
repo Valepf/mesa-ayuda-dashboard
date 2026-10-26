@@ -1,5 +1,8 @@
 # Mesa de Ayuda con IA
 
+[🚀 Probar demo online](https://mesa-ayuda-dashboard-kt7aj4uar7j2t2i5ugiybf.streamlit.app/)
+
+Explorá el panel con datos ficticios, sin instalar nada.
 Panel de seguimiento de tickets desarrollado con Python y Streamlit,
 integrado con Google Sheets y un flujo de automatización en n8n.
 
