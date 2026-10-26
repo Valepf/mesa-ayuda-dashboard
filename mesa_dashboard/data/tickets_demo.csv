@@ -1,0 +1,91 @@
+ticket_id,created_at,category,priority,status,first_response_hours,resolution_hours,channel
+TK-1001,2026-10-01T08:00:00,Equipos,Alta,Pendiente,,,Correo
+TK-1002,2026-10-01T14:00:00,Acceso,Baja,En proceso,3.7,,Formulario
+TK-1003,2026-10-01T20:00:00,Software,Alta,Pendiente,,,WhatsApp
+TK-1004,2026-10-02T02:00:00,Red,Alta,Pendiente,,,Formulario
+TK-1005,2026-10-02T08:00:00,Acceso,Alta,Resuelto,4.1,21.9,Formulario
+TK-1006,2026-10-02T14:00:00,Equipos,Alta,Resuelto,0.9,4.1,Correo
+TK-1007,2026-10-02T20:00:00,Equipos,Alta,Resuelto,4.3,22.8,WhatsApp
+TK-1008,2026-10-03T02:00:00,Red,Alta,Pendiente,,,WhatsApp
+TK-1009,2026-10-03T08:00:00,Equipos,Baja,Resuelto,4.2,9.8,Correo
+TK-1010,2026-10-03T14:00:00,Equipos,Alta,Pendiente,,,Correo
+TK-1011,2026-10-03T20:00:00,Red,Baja,Pendiente,,,Formulario
+TK-1012,2026-10-04T02:00:00,Software,Baja,En proceso,2.0,,Formulario
+TK-1013,2026-10-04T08:00:00,Software,Baja,Pendiente,,,WhatsApp
+TK-1014,2026-10-04T14:00:00,Red,Media,En proceso,1.0,,WhatsApp
+TK-1015,2026-10-04T20:00:00,Acceso,Alta,En proceso,3.5,,Correo
+TK-1016,2026-10-05T02:00:00,Acceso,Alta,Resuelto,2.1,25.0,WhatsApp
+TK-1017,2026-10-05T08:00:00,Red,Media,Resuelto,1.2,23.4,WhatsApp
+TK-1018,2026-10-05T14:00:00,Software,Alta,Resuelto,0.9,19.8,WhatsApp
+TK-1019,2026-10-05T20:00:00,Red,Baja,Resuelto,3.8,14.4,Correo
+TK-1020,2026-10-06T02:00:00,Acceso,Alta,En proceso,2.6,,Correo
+TK-1021,2026-10-06T08:00:00,Red,Baja,En proceso,3.2,,Correo
+TK-1022,2026-10-06T14:00:00,Red,Baja,Resuelto,2.0,9.0,WhatsApp
+TK-1023,2026-10-06T20:00:00,Acceso,Baja,Pendiente,,,WhatsApp
+TK-1024,2026-10-07T02:00:00,Equipos,Alta,Resuelto,3.9,11.9,Correo
+TK-1025,2026-10-07T08:00:00,Equipos,Baja,Resuelto,0.2,19.5,WhatsApp
+TK-1026,2026-10-07T14:00:00,Equipos,Baja,Pendiente,,,WhatsApp
+TK-1027,2026-10-07T20:00:00,Software,Baja,En proceso,0.9,,WhatsApp
+TK-1028,2026-10-08T02:00:00,Red,Alta,Pendiente,,,Correo
+TK-1029,2026-10-08T08:00:00,Equipos,Alta,Resuelto,4.4,6.8,WhatsApp
+TK-1030,2026-10-08T14:00:00,Red,Alta,Pendiente,,,WhatsApp
+TK-1031,2026-10-08T20:00:00,Red,Baja,En proceso,0.8,,Correo
+TK-1032,2026-10-09T02:00:00,Red,Alta,Resuelto,2.7,26.0,WhatsApp
+TK-1033,2026-10-09T08:00:00,Red,Baja,En proceso,3.6,,WhatsApp
+TK-1034,2026-10-09T14:00:00,Red,Alta,Resuelto,2.3,9.2,Correo
+TK-1035,2026-10-09T20:00:00,Software,Baja,Resuelto,0.3,6.6,Correo
+TK-1036,2026-10-10T02:00:00,Acceso,Media,Pendiente,,,Correo
+TK-1037,2026-10-10T08:00:00,Red,Alta,En proceso,1.5,,WhatsApp
+TK-1038,2026-10-10T14:00:00,Red,Alta,En proceso,3.7,,Formulario
+TK-1039,2026-10-10T20:00:00,Acceso,Baja,Resuelto,1.1,12.4,Formulario
+TK-1040,2026-10-11T02:00:00,Acceso,Baja,Resuelto,2.4,19.1,WhatsApp
+TK-1041,2026-10-11T08:00:00,Equipos,Alta,Pendiente,,,Correo
+TK-1042,2026-10-11T14:00:00,Red,Alta,En proceso,1.1,,Formulario
+TK-1043,2026-10-11T20:00:00,Software,Alta,En proceso,1.5,,Formulario
+TK-1044,2026-10-12T02:00:00,Acceso,Alta,Pendiente,,,Correo
+TK-1045,2026-10-12T08:00:00,Red,Alta,En proceso,2.2,,Formulario
+TK-1046,2026-10-12T14:00:00,Acceso,Media,Pendiente,,,Formulario
+TK-1047,2026-10-12T20:00:00,Red,Alta,Resuelto,1.6,7.2,Correo
+TK-1048,2026-10-13T02:00:00,Acceso,Baja,Pendiente,,,Formulario
+TK-1049,2026-10-13T08:00:00,Red,Baja,Pendiente,,,WhatsApp
+TK-1050,2026-10-13T14:00:00,Acceso,Alta,En proceso,0.5,,Correo
+TK-1051,2026-10-13T20:00:00,Software,Media,Pendiente,,,Correo
+TK-1052,2026-10-14T02:00:00,Acceso,Baja,En proceso,3.0,,Correo
+TK-1053,2026-10-14T08:00:00,Equipos,Media,Resuelto,3.4,9.3,WhatsApp
+TK-1054,2026-10-14T14:00:00,Red,Alta,Resuelto,1.3,18.4,Formulario
+TK-1055,2026-10-14T20:00:00,Acceso,Alta,Resuelto,1.7,13.7,WhatsApp
+TK-1056,2026-10-15T02:00:00,Software,Baja,Pendiente,,,Formulario
+TK-1057,2026-10-15T08:00:00,Acceso,Alta,En proceso,4.7,,Formulario
+TK-1058,2026-10-15T14:00:00,Equipos,Baja,Resuelto,1.0,25.6,WhatsApp
+TK-1059,2026-10-15T20:00:00,Equipos,Baja,Pendiente,,,Correo
+TK-1060,2026-10-16T02:00:00,Acceso,Baja,En proceso,1.5,,WhatsApp
+TK-1061,2026-10-16T08:00:00,Software,Baja,En proceso,1.5,,Formulario
+TK-1062,2026-10-16T14:00:00,Equipos,Baja,En proceso,3.5,,Formulario
+TK-1063,2026-10-16T20:00:00,Acceso,Alta,Resuelto,4.5,20.7,Formulario
+TK-1064,2026-10-17T02:00:00,Software,Baja,Pendiente,,,Formulario
+TK-1065,2026-10-17T08:00:00,Red,Baja,En proceso,3.8,,Correo
+TK-1066,2026-10-17T14:00:00,Software,Baja,Pendiente,,,Correo
+TK-1067,2026-10-17T20:00:00,Software,Media,Resuelto,3.0,7.1,Formulario
+TK-1068,2026-10-18T02:00:00,Acceso,Media,Resuelto,4.5,10.5,Correo
+TK-1069,2026-10-18T08:00:00,Red,Baja,Pendiente,,,WhatsApp
+TK-1070,2026-10-18T14:00:00,Software,Alta,En proceso,4.6,,Correo
+TK-1071,2026-10-18T20:00:00,Equipos,Media,Resuelto,0.3,20.6,WhatsApp
+TK-1072,2026-10-19T02:00:00,Acceso,Media,En proceso,1.5,,Correo
+TK-1073,2026-10-19T08:00:00,Red,Media,Resuelto,1.3,9.6,Correo
+TK-1074,2026-10-19T14:00:00,Software,Media,En proceso,0.3,,Formulario
+TK-1075,2026-10-19T20:00:00,Equipos,Media,Resuelto,4.3,20.7,Formulario
+TK-1076,2026-10-20T02:00:00,Acceso,Media,Resuelto,4.7,10.0,Formulario
+TK-1077,2026-10-20T08:00:00,Red,Media,Pendiente,,,WhatsApp
+TK-1078,2026-10-20T14:00:00,Acceso,Media,Resuelto,2.3,24.9,Correo
+TK-1079,2026-10-20T20:00:00,Red,Alta,Resuelto,0.4,13.9,WhatsApp
+TK-1080,2026-10-21T02:00:00,Acceso,Baja,En proceso,1.9,,Formulario
+TK-1081,2026-10-21T08:00:00,Acceso,Baja,Resuelto,3.4,26.0,WhatsApp
+TK-1082,2026-10-21T14:00:00,Equipos,Media,Resuelto,3.4,21.1,WhatsApp
+TK-1083,2026-10-21T20:00:00,Red,Baja,En proceso,1.1,,WhatsApp
+TK-1084,2026-10-22T02:00:00,Equipos,Media,En proceso,3.2,,WhatsApp
+TK-1085,2026-10-22T08:00:00,Software,Media,Pendiente,,,WhatsApp
+TK-1086,2026-10-22T14:00:00,Red,Baja,Resuelto,2.4,8.5,Formulario
+TK-1087,2026-10-22T20:00:00,Equipos,Baja,En proceso,3.4,,WhatsApp
+TK-1088,2026-10-23T02:00:00,Software,Baja,Resuelto,0.6,9.1,Correo
+TK-1089,2026-10-23T08:00:00,Software,Media,En proceso,0.3,,WhatsApp
+TK-1090,2026-10-23T14:00:00,Software,Baja,Pendiente,,,WhatsApp

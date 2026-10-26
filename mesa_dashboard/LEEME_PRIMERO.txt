@@ -1,0 +1,14 @@
+MESA DE AYUDA
+
+Extrae todo el proyecto en una carpeta.
+1. Ejecuta 1_INSTALAR.bat.
+2. Ejecuta 3_ABRIR_PANEL.bat para probar la demostracion.
+
+Para Google Sheets:
+- Copia config.example.json como config.local.json y completa tu ID de planilla.
+- Guarda credentials.json junto a app.py.
+- Ejecuta 2_CONECTAR_GOOGLE.bat y autoriza la lectura en el navegador.
+- Abre 3_ABRIR_PANEL.bat y selecciona Google Sheets.
+
+Instrucciones completas: README.md y CONECTAR_GOOGLE_SHEETS.md.
+No compartas credenciales ni tokens. Deja la terminal abierta al usar el panel.
